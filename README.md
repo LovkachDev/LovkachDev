@@ -1,5 +1,7 @@
 ## Full Stack Developer
 
+*Hello! My name is Fedor and I'm junior fullstack developer.
+
 ## Languagues and Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
