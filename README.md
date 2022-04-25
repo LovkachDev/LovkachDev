@@ -2,12 +2,11 @@
 
 ## Languagues and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-262424?style=for-the-badge&logo=MySQL)
