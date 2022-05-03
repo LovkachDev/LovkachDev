@@ -1,6 +1,6 @@
 ## Full Stack Developer
 
-*Hello! My name is Fedor and I'm junior fullstack developer.*
+*Hello! My name is Fedor and I'm fullstack developer.*
 
 ## Languagues and Tools
 
