@@ -1,6 +1,6 @@
 ## Full Stack Developer
 
-*Hello! My name is Fedor and I'm fullstack developer.*
+*Hello! My name is Fedor and I'm fullstack web developer.*
 
 ## Languagues and Tools
 
@@ -13,12 +13,9 @@
 ![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
-![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-262424?style=for-the-badge&logo=MySQL)
-![C++](https://img.shields.io/badge/C++-262424?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![Git](https://img.shields.io/badge/Git-262424?style=for-the-badge&logo=Git)
-![AdobePhotoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-262424?style=for-the-badge&logo=AdobePhotoshop)
 ![Figma](https://img.shields.io/badge/Figma-262424?style=for-the-badge&logo=Figma)
 ![FileZilla](https://img.shields.io/badge/FileZilla-262424?style=for-the-badge&logo=FileZilla&logoColor=BF0000)
 
