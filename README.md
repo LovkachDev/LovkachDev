@@ -34,4 +34,4 @@
 
 ## Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](https://t.me/lovkach404)
+[![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](https://t.me/lovkachdev)
